@@ -9,6 +9,8 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 ## This is a new edit
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis rem voluptatum ullam nihil accusantium hic architecto, labore asperiores id deleniti, totam iste facilis temporibus vitae consectetur dolorem nemo facere at.
 
+# Hello
+
 ## Add new content
 * content 1
 * content 2
