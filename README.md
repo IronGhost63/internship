@@ -8,6 +8,10 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 
 # update
 
+# test
+
+* item
+
 ## Features
 
 * Better folder structure
