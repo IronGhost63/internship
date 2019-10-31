@@ -15,6 +15,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis rem voluptatum
 * content 3
 
 ## Features
+# My name is North
 
 * Better folder structure
 * Dependency management with [Composer](https://getcomposer.org)
